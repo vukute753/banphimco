@@ -1,0 +1,29 @@
+body {
+  background-image: url("../img/IMG-home-page/4082394.jpg");
+  height: 50%;
+  width: 50%;
+  align-items: center;
+  margin: auto;
+  margin-top: 100px;
+}
+
+#pills-login,
+#pills-register {
+  background: rgba(0, 0, 0, 0.5);
+  /* Màu đen mờ */
+  color: white;
+  padding: 20px 50px 50px 50px;
+
+}
+
+#pills-login input,
+#pills-register input {
+  height: 60px;
+  color: white;
+  font-size: 18px;
+}
+
+.listIcon button {
+  font-size: 20px;
+  margin: 10px;
+}
